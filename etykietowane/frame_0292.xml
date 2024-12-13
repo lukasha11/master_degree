@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2</folder>
+	<filename>frame_0292.png</filename>
+	<path>C:\Users\lukas\PycharmProjects\pythonProject\test2\frame_0292.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>902</ymin>
+			<xmax>606</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+</annotation>
