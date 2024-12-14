@@ -191,7 +191,7 @@ def predict_and_visualize(model, image, classes):
 if __name__ == "__main__":
     # Ustawienia
     IMAGE_DIR = "images/"  # Folder z obrazami
-    ANNOTATION_DIR = "etykietowane/"  # Folder z etykietami XML
+    ANNOTATION_DIR = "labels_data/"  # Folder z etykietami XML
     CLASSES = ["car", "truck", "bus"]  # Twoje klasy
     INPUT_SIZE = 224
     NUM_CLASSES = len(CLASSES)
