@@ -7,7 +7,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 video_path = "C:/studia/magisterka/Praca magisterska/test/1.MOV"
 cap = cv2.VideoCapture(video_path)
-
+#test git
 count = 0
 while True:
     ret, frame = cap.read()
