@@ -1,0 +1,6 @@
+train: C:/Users/lukas/PycharmProjects/pythonProject/master_degree/labels_data/images
+val: C:/Users/lukas/PycharmProjects/pythonProject/master_degree/labels_data/images
+test:  
+
+nc: 1  # Liczba klas (1 = tylko samochody)
+names: ["car"]
